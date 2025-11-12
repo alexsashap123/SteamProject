@@ -1,0 +1,9 @@
+{
+    "logging": {
+        "enabled": true,
+        "level": "INFO",
+        "log_to_file": true,
+        "filename": "selenium_scraping.log",
+        "log_to_console": true
+    }
+}
