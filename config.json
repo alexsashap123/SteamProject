@@ -1,0 +1,8 @@
+{
+    "logging": {
+        "enabled": true,
+        "level": "INFO",
+        "log_to_file": true,
+        "filename": "api_client.log"
+    }
+}
